@@ -1,0 +1,1 @@
+<p style="text-align:justify;">System call is the interface between a process and an operating system. This experiment helps us to understand the working of system calls, types of system calls and various operations used to invoke system calls in Windows and Unix operating systems.</p> 

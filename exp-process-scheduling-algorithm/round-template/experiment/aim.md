@@ -1,0 +1,1 @@
+<p style="text-align:justify;">Objective of scheduling in an operating system is to increase the performance of the system. This experiment helps us to understand the execution of a set of processes through various scheduling algorithms such as First-Come First-Served, Shortest-Job-First, Shortest-Remaining-Time-First, Priority and Round-Robin Scheduling algorithm.</p>

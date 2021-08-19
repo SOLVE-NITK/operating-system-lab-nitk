@@ -1,0 +1,33 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Fundamentals of System Calls",
+			"Lab": "Operating Systems",
+			"Discipline": "Computer Science & Engineering",
+			"Technology": "HTML, Javascript, CSS, JQuery, Inkscape"
+       }
+   ],
+
+   "developer": [
+       {
+      "Developer": "Dr. Mohith P. Tahiliani",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK, Surathkal"
+       }
+   ],
+
+   "contributer": 
+	[
+		{
+			"Contributer": "",
+			"Institute": "",
+			"InstituteAcronym": ""
+		},
+		{
+			"Contributer": "",
+			"Institute": "",
+			"InstituteAcronym": ""
+		}
+	]
+}
